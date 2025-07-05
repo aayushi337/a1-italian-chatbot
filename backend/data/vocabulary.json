@@ -1,0 +1,136 @@
+{
+  "greetings": {
+    "category": "Saluti (Greetings)",
+    "words": [
+      {
+        "italian": "Ciao",
+        "english": "Hello/Goodbye (informal)",
+        "pronunciation": "CHAH-oh",
+        "example": "Ciao! Come stai?"
+      },
+      {
+        "italian": "Buongiorno",
+        "english": "Good morning",
+        "pronunciation": "bwohn-JOR-noh",
+        "example": "Buongiorno, signora!"
+      },
+      {
+        "italian": "Buonasera",
+        "english": "Good evening",
+        "pronunciation": "bwoh-nah-SEH-rah",
+        "example": "Buonasera a tutti!"
+      },
+      {
+        "italian": "Arrivederci",
+        "english": "Goodbye (formal)",
+        "pronunciation": "ah-ree-veh-DEHR-chee",
+        "example": "Arrivederci, professore!"
+      }
+    ]
+  },
+  "family": {
+    "category": "Famiglia (Family)",
+    "words": [
+      {
+        "italian": "Famiglia",
+        "english": "Family",
+        "pronunciation": "fah-MEE-lyah",
+        "example": "La mia famiglia è grande."
+      },
+      {
+        "italian": "Madre",
+        "english": "Mother",
+        "pronunciation": "MAH-dreh",
+        "example": "Mia madre è dottoressa."
+      },
+      {
+        "italian": "Padre",
+        "english": "Father",
+        "pronunciation": "PAH-dreh",
+        "example": "Mio padre lavora in ufficio."
+      },
+      {
+        "italian": "Fratello",
+        "english": "Brother",
+        "pronunciation": "frah-TEL-loh",
+        "example": "Ho un fratello maggiore."
+      },
+      {
+        "italian": "Sorella",
+        "english": "Sister",
+        "pronunciation": "soh-REL-lah",
+        "example": "Mia sorella studia medicina."
+      }
+    ]
+  },
+  "numbers": {
+    "category": "Numeri (Numbers)",
+    "words": [
+      {
+        "italian": "Uno",
+        "english": "One",
+        "pronunciation": "OO-noh",
+        "example": "Ho uno zaino."
+      },
+      {
+        "italian": "Due",
+        "english": "Two",
+        "pronunciation": "DOO-eh",
+        "example": "Ci sono due gatti."
+      },
+      {
+        "italian": "Tre",
+        "english": "Three",
+        "pronunciation": "treh",
+        "example": "Tre amici vanno al cinema."
+      },
+      {
+        "italian": "Quattro",
+        "english": "Four",
+        "pronunciation": "KWAT-troh",
+        "example": "La tavola ha quattro sedie."
+      },
+      {
+        "italian": "Cinque",
+        "english": "Five",
+        "pronunciation": "CHEEN-kweh",
+        "example": "Cinque minuti, per favore."
+      }
+    ]
+  },
+  "colors": {
+    "category": "Colori (Colors)",
+    "words": [
+      {
+        "italian": "Rosso",
+        "english": "Red",
+        "pronunciation": "ROHS-soh",
+        "example": "La mela è rossa."
+      },
+      {
+        "italian": "Blu",
+        "english": "Blue",
+        "pronunciation": "bloo",
+        "example": "Il cielo è blu."
+      },
+      {
+        "italian": "Verde",
+        "english": "Green",
+        "pronunciation": "VEHR-deh",
+        "example": "L'erba è verde."
+      },
+      {
+        "italian": "Giallo",
+        "english": "Yellow",
+        "pronunciation": "JAHL-loh",
+        "example": "Il sole è giallo."
+      },
+      {
+        "italian": "Nero",
+        "english": "Black",
+        "pronunciation": "NEH-roh",
+        "example": "Ho una macchina nera."
+      }
+    ]
+  }
+}

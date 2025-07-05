@@ -1,0 +1,73 @@
+{
+  "articles": {
+    "definite": {
+      "masculine": {
+        "singular": "il, lo, l'",
+        "plural": "i, gli",
+        "examples": [
+          "il libro (the book)",
+          "lo zaino (the backpack)",
+          "l'amico (the friend)"
+        ]
+      },
+      "feminine": {
+        "singular": "la, l'",
+        "plural": "le",
+        "examples": [
+          "la casa (the house)",
+          "l'amica (the friend)"
+        ]
+      }
+    },
+    "indefinite": {
+      "masculine": {
+        "singular": "un, uno",
+        "examples": [
+          "un libro (a book)",
+          "uno zaino (a backpack)"
+        ]
+      },
+      "feminine": {
+        "singular": "una, un'",
+        "examples": [
+          "una casa (a house)",
+          "un'amica (a friend)"
+        ]
+      }
+    }
+  },
+  "verbs": {
+    "essere": {
+      "english": "to be",
+      "conjugation": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "examples": [
+        "Io sono studente (I am a student)",
+        "Tu sei italiano (You are Italian)",
+        "Lei è dottoressa (She is a doctor)"
+      ]
+    },
+    "avere": {
+      "english": "to have",
+      "conjugation": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      },
+      "examples": [
+        "Io ho una macchina (I have a car)",
+        "Tu hai fame (You are hungry)",
+        "Noi abbiamo tempo (We have time)"
+      ]
+    }
+  }
+}

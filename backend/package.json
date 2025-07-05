@@ -1,0 +1,20 @@
+{
+  "name": "a1-italian-chatbot-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aayushi",
+  "license": "ISC",
+  "description": "backend server for A1 Italian learning chatbot",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  }
+}

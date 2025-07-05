@@ -1,0 +1,63 @@
+{
+  "basicPhrases": [
+    {
+      "italian": "Come ti chiami?",
+      "english": "What's your name?",
+      "pronunciation": "KOH-meh tee kee-AH-mee",
+      "response": "Mi chiamo..."
+    },
+    {
+      "italian": "Come stai?",
+      "english": "How are you?",
+      "pronunciation": "KOH-meh stah-ee",
+      "response": "Sto bene, grazie!"
+    },
+    {
+      "italian": "Di dove sei?",
+      "english": "Where are you from?",
+      "pronunciation": "dee DOH-veh seh-ee",
+      "response": "Sono di..."
+    },
+    {
+      "italian": "Quanti anni hai?",
+      "english": "How old are you?",
+      "pronunciation": "KWAN-tee AH-nee ah-ee",
+      "response": "Ho ... anni."
+    },
+    {
+      "italian": "Scusa, non capisco",
+      "english": "Sorry, I don't understand",
+      "pronunciation": "SKOO-zah, nohn kah-PEES-koh",
+      "response": "Va bene, provo a spiegare meglio."
+    },
+    {
+      "italian": "Puoi ripetere?",
+      "english": "Can you repeat?",
+      "pronunciation": "poo-OH-ee ree-PEH-teh-reh",
+      "response": "Certo! Ripeto..."
+    },
+    {
+      "italian": "Grazie mille",
+      "english": "Thank you very much",
+      "pronunciation": "GRAH-tsee-eh MEEL-leh",
+      "response": "Prego! Di niente!"
+    }
+  ],
+  "learningPhrases": [
+    {
+      "italian": "Voglio imparare l'italiano",
+      "english": "I want to learn Italian",
+      "pronunciation": "VOH-lyoh eem-pah-RAH-reh lee-tah-lee-AH-noh"
+    },
+    {
+      "italian": "Sto studiando l'italiano",
+      "english": "I'm studying Italian",
+      "pronunciation": "stoh stoo-dee-AH-noh lee-tah-lee-AH-noh"
+    },
+    {
+      "italian": "È difficile ma divertente",
+      "english": "It's difficult but fun",
+      "pronunciation": "eh dee-FEE-chee-leh mah dee-vehr-TEHN-teh"
+    }
+  ]
+}

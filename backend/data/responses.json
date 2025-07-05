@@ -1,0 +1,38 @@
+{
+  "greetings": [
+    "Ciao! Come posso aiutarti con l'italiano oggi?",
+    "Buongiorno! Sono qui per aiutarti a imparare l'italiano!",
+    "Ciao! Iniziamo questa lezione di italiano insieme!",
+    "Salve! Pronto per praticare l'italiano?"
+  ],
+  "encouragement": [
+    "Bravo! Stai facendo progressi!",
+    "Ottimo lavoro! Continua così!",
+    "Molto bene! L'italiano non è così difficile, vero?",
+    "Eccellente! Stai imparando velocemente!"
+  ],
+  "corrections": [
+    "Non è proprio così. Prova con:",
+    "Quasi giusto! La forma corretta è:",
+    "Buon tentativo! La risposta corretta è:",
+    "Ci sei quasi! Dovrebbe essere:"
+  ],
+  "explanations": [
+    "Te lo spiego meglio:",
+    "Ecco una spiegazione più dettagliata:",
+    "Lascia che ti aiuti a capire:",
+    "Vediamo insieme:"
+  ],
+  "practice": [
+    "Proviamo a praticare questo:",
+    "Facciamo qualche esercizio:",
+    "Mettiamo in pratica quello che hai imparato:",
+    "Ora tocca a te!"
+  ],
+  "fallback": [
+    "Non ho capito bene. Puoi riformulare la domanda?",
+    "Interessante! Puoi spiegare meglio cosa vuoi sapere?",
+    "Hmm, non sono sicuro di aver capito. Prova a dirlo diversamente.",
+    "Scusa, ma non ho informazioni su questo argomento specifico."
+  ]
+}
