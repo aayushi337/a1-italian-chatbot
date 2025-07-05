@@ -3,14 +3,11 @@ import { MessageCircle, Book, Brain, Volume2, Sparkles, Globe, Users, Award } fr
 
 const WelcomeScreen = ({ onStartChat }) => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50">
-      <div className="bg-white shadow-sm">
+    <div className="min-h-screen bg-gradient-to-br from-yellow-50 via-green-50 to-purple-50">
+      <div className="bg-green-100 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full flex items-center justify-center">
-                <Globe className="w-6 h-6 text-white" />
-              </div>
               <div>
                 <h1 className="text-xl font-bold text-gray-800">ItalianBot</h1>
                 <p className="text-sm text-gray-600">A1 Level Learning Assistant</p>
@@ -73,9 +70,8 @@ const WelcomeScreen = ({ onStartChat }) => {
           <h3 className="text-2xl font-bold text-gray-800 mb-4">Sei pronto?</h3>          
           <button
             onClick={onStartChat}
-            className="bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-semibold py-4 px-8 rounded-full text-lg transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center gap-3 mx-auto"
+            className="bg-green-400 text-white font-semibold py-4 px-8 rounded-full text-lg transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center gap-3 mx-auto"
           >
-            <MessageCircle className="w-6 h-6" />
             Start Learning Italian
           </button>
         </div>
