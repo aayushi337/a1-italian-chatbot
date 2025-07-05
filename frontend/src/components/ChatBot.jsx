@@ -215,13 +215,10 @@ const ChatBot = ({ onClose }) => {
   };
 
   return (
-    <div className="flex flex-col h-full bg-gradient-to-br from-blue-50 to-indigo-100">
-      <div className="bg-white shadow-sm border-b p-4">
+    <div className="flex flex-col h-full bg-gradient-to-br from-green-50 to-yellow-50">
+      <div className="bg-white shadow-sm border-b p-4 rounded-3xl mx-1">
         <div className="flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full flex items-center justify-center">
-              <Bot className="w-6 h-6 text-white" />
-            </div>
+          <div className="flex items-center gap-3 mx-2">
             <div>
               <h2 className="font-semibold text-gray-800">Italian Learning Assistant</h2>
               <p className="text-sm text-gray-600">Livello A1 - Principiante</p>
